@@ -30,4 +30,4 @@ npm-debug.log*
 /plugins
 /www
 
-google_maps_api_key.js
+src/app/bounty-active/google_maps_api_key.js
